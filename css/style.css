@@ -1,0 +1,23 @@
+img{
+    display: flex;
+    flex-direction: column;
+    width: 99.50%;
+    height:500px;
+}
+.link a{
+display: flex;
+flex-direction: column;
+text-align: center;
+align-items: center;
+justify-content: center;
+margin-top: 20px;
+padding: 2px 0px;
+border-radius: 4px;
+border: 2px solid  crimson;
+background-color: crimson;
+color: white;
+text-decoration: none;
+font-style: italic;
+font-family: cursive;
+font-size: 15px;
+}
